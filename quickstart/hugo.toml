@@ -1,0 +1,4 @@
+baseURL = 'https://risperss.github.io/blog/'
+languageCode = 'en-us'
+title = 'Gaetano New Hugo Site Test'
+theme = 'ananke'
