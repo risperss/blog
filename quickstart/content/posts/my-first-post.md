@@ -8,3 +8,5 @@ draft = false
 This is **bold** text, and this is *emphasized* text.
 
 Hello, world!
+
+Adding an update to the page
